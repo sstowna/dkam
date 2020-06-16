@@ -1,5 +1,5 @@
-# DKAM
-<h2>This is a simple python script that will disable your keyboard and mouse.</h2><br>
+<h1>DKAM</h1>
+<h3>This is a simple python script that will disable your keyboard and mouse.</h3><br>
 <h4>[Note] You will need to run it as administrator, it was made for Windows.</h4>
 <h4>[Packages] ctypes</h4>
 <h4>[Version] Python 3.X</h4>
